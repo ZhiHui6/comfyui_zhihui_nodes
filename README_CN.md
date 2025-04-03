@@ -60,7 +60,7 @@
 
 ### 手动安装
 1. 下载整个节点文件夹
-2. 将整个自定义节点文件夹 ComfyUI_ZhiHui_Node 复制到ComfyUI的 custom_nodes 目录下
+2. 将整个自定义节点文件夹 comfyui_zhihui_nodes 复制到ComfyUI的 custom_nodes 目录下
 3. 重启ComfyUI
 4. 在ComfyUI的节点选项卡中，你应该可以看到新添加的节点。
 
