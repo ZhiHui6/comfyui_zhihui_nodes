@@ -60,7 +60,7 @@ This is a custom node package for [ComfyUI], currently containing three nodes.
 
 ### Manual Installation
 1. Download the entire node folder
-2. Copy the entire custom node folder ComfyUI_ZhiHui_Node to ComfyUI's custom_nodes directory
+2. Copy the entire custom node folder comfyui_zhihui_nodes to ComfyUI's custom_nodes directory
 3. Restart ComfyUI
 4. You should see the new nodes in ComfyUI's node tab.
 
