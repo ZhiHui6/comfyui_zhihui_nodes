@@ -53,9 +53,10 @@
 ### 通过 ComfyUI Manager 安装（推荐）
 1. 安装ComfyUI管理器 Manager
 2. 在 Manager 中“通过Git URL安装”
-3. 点击 Install 安装
-4. 重启ComfyUI
-5. 在ComfyUI的节点选项卡中，你应该可以看到新添加的节点。
+3. 输入 https://github.com/ZhiHui6/comfyui_zhihui_nodes.git
+4. 点击 Install 安装
+5. 重启ComfyUI
+6. 在ComfyUI的节点选项卡中，你应该可以看到新添加的节点。
 
 ### 手动安装
 1. 下载整个节点文件夹
