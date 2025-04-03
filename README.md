@@ -51,11 +51,12 @@ This is a custom node package for [ComfyUI], currently containing three nodes.
 
 ## Installation
 ### Via ComfyUI Manager (Recommended)
-1. Install ComfyUI Manager
-2. Search for ComfyUI_ZhiHui_Node in Manager
-3. Click Install
-4. Restart ComfyUI
-5. You should see the new nodes in ComfyUI's node tab.
+1. Install the ComfyUI Manager Manager
+2. In Manager, "Install via Git URL"
+3. Enter https://github.com/ZhiHui6/comfyui_zhihui_nodes.git
+4. Click Install
+5. Restart ComfyUI
+6. In the Nodes tab of ComfyUI, you should be able to see the newly added nodes.
 
 ### Manual Installation
 1. Download the entire node folder
