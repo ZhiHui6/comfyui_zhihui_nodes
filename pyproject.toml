@@ -1,0 +1,15 @@
+[project]
+name = "zhihui_nodes"
+description = "NODES: Prompt Preset, Video Batch Loader, Video Combiner"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["opencv-python>=4.5.0", "numpy>=1.21.0", "torch>=1.10.0"]
+
+[project.urls]
+Repository = "https://github.com/ZhiHui6/comfyui_zhihui_nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_zhihui_nodes"
+Icon = ""
